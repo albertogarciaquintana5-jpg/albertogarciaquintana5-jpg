@@ -2,6 +2,11 @@
 
   <h1 style="color:#4CAF50;">🌿 ¡Bienvenid@ a mi perfil de GitHub! 🌿</h1>
 
+  <img src="https://64.media.tumblr.com/adea5b2eaecf04f58fef98fa74c3ee1b/398689ee18bb6036-b9/s540x810/38f2f7707f0f56fc2bf5b6cc20ec3f1b381eb66c.gif" 
+       alt="Logo Rowlet girando" 
+       width="250" 
+       style="border-radius:50%; margin-bottom:20px;" />
+
   <p style="font-size:18px;">
     ¡Hola! Soy un apasionado/a del desarrollo y la tecnología 💻  
     Me encanta crear, aprender y compartir conocimiento   
@@ -44,8 +49,8 @@
     <a href="https://github.com/TU-USUARIO" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-Perfil-black?logo=github" alt="GitHub Perfil" />
     </a>
-    <a href="https://twitter.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-@tuusuario-blue?logo=twitter" alt="Twitter" />
+    <a href="https://www.instagram.com/albertogarciaquintana5" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-@albertogarciaquintana5-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
 
