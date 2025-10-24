@@ -4,7 +4,7 @@
 
   <img src="https://p4.wallpaperbetter.com/wallpaper/709/758/397/video-games-pc-gaming-nvidia-red-dead-redemption-2-hd-wallpaper-preview.jpg" 
        alt="logo" 
-       width="250" 
+       width="100%" 
        style="border-radius:50%; margin-bottom:20px;" />
 
   <p style="font-size:18px;">
