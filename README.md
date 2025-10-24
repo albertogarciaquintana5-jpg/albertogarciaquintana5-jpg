@@ -2,7 +2,7 @@
 
   <h1 style="color:#4CAF50;">🌿 ¡Bienvenid@ a mi perfil de GitHub! 🌿</h1>
 
-  <img src="https://64.media.tumblr.com/adea5b2eaecf04f58fef98fa74c3ee1b/398689ee18bb6036-b9/s540x810/38f2f7707f0f56fc2bf5b6cc20ec3f1b381eb66c.gif" 
+  <img src="[https://64.media.tumblr.com/adea5b2eaecf04f58fef98fa74c3ee1b/398689ee18bb6036-b9/s540x810/38f2f7707f0f56fc2bf5b6cc20ec3f1b381eb66c.gif](https://64.media.tumblr.com/adea5b2eaecf04f58fef98fa74c3ee1b/398689ee18bb6036-b9/s540x810/38f2f7707f0f56fc2bf5b6cc20ec3f1b381eb66c.gif)" 
        alt="Logo Rowlet girando" 
        width="250" 
        style="border-radius:50%; margin-bottom:20px;" />
